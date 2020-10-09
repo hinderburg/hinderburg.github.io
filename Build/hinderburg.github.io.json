@@ -1,7 +1,7 @@
 {
-"companyName": "SuccessStory",
-"productName": "String Magic",
-"productVersion": "1.0",
+"companyName": "DefaultCompany",
+"productName": "Bowling Fly",
+"productVersion": "0.1",
 "dataUrl": "hinderburg.github.io.data.unityweb",
 "wasmCodeUrl": "hinderburg.github.io.wasm.code.unityweb",
 "wasmFrameworkUrl": "hinderburg.github.io.wasm.framework.unityweb",
@@ -9,6 +9,7 @@
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
 "backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
 "developmentBuild": false,
 "multithreading": false,
 "unityVersion": "2019.3.10f1"
